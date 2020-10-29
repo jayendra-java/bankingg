@@ -16,6 +16,7 @@ public class BasicController {
 		
 		System.out.println("bye");
 		System.out.println("hello world");
+		System.out.println("hello world....commit and push");
 		return "index.jsp";
 	}
 
