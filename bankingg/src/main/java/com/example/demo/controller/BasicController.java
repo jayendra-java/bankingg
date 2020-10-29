@@ -15,6 +15,7 @@ public class BasicController {
 	//	ModelAndView mv=new ModelAndView("index.jsp");
 		
 		System.out.println("bye");
+		System.out.println("hello world");
 		return "index.jsp";
 	}
 
